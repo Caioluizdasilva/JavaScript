@@ -1,10 +1,10 @@
-# JavaScript Basics Project
+# JavaScript Basics
 
 ## Description
 
-This repository was created as part of my journey to review and reinforce core JavaScript concepts. The idea behind this project is to revisit the foundations of JavaScript in a practical and organized way, including small examples and exercises that cover the language basics and how it interacts with the browser.
+A hands-on collection of JavaScript exercises and mini-projects designed to revisit and reinforce fundamental concepts. Ideal for practicing variables, functions, DOM manipulation, and more.
 
-## Technologies Used
+## Technologies
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -12,7 +12,13 @@ This repository was created as part of my journey to review and reinforce core J
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-## How to Use
+- JavaScript (ES6+)
+- HTML5 & CSS3
 
-1. Clone the repository:
-   ```bash https://github.com/Caioluizdasilva/JavaScript.git
+## Getting Started
+
+To explore the exercises:
+
+```bash
+git clone https://github.com/Caioluizdasilva/JavaScript.git
+cd JavaScript
