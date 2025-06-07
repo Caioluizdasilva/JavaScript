@@ -12,8 +12,6 @@ A hands-on collection of JavaScript exercises and mini-projects designed to revi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-- JavaScript (ES6+)
-- HTML5 & CSS3
 
 ## Getting Started
 
