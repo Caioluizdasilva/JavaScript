@@ -15,5 +15,4 @@ This repository was created as part of my journey to review and reinforce core J
 ## How to Use
 
 1. Clone the repository:
-   ```bash
-  https://github.com/Caioluizdasilva/JavaScript.git
+   ```bash https://github.com/Caioluizdasilva/JavaScript.git
